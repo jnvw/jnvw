@@ -1,13 +1,38 @@
-<div align="center">
- <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">    
-</div>  
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8+%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9E%2C+%3C%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!)](https://git.io/typing-svg) 
+<span style="color:#000080;">╔════════════════════════ </span><span style="color:#000080;font-weight:bold;">Hi there</span><span style="color:#000080;"> ════════════════════════╗</span> 🤓 <a href="https://github.com/jnvw">Sumedh Bhagat</a>
+<span style="color:#000080;">║</span> I'm a Software Engineer from India.                      <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🐍 Python Developer
+<span style="color:#000080;">║</span> Passionate about building real-world systems across      <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ Django / DRF
+<span style="color:#000080;">║</span> full-stack, embedded Linux, and AI/ML.                   <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ PyTorch / Meta-Learning
+<span style="color:#000080;">║</span> B.Tech in Information Technology(CGPA: 7.79) and         <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ OpenCV / Gradio
+<span style="color:#000080;">║</span> actively contributing to projects & open source.         <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┗━━ </span>⭐ Automation & Tooling
+<span style="color:#000080;">║</span>                                                          <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🔧 Embedded & Systems Engineer
+<span style="color:#000080;">║</span> Experience @ <b>ZOHO Corporation</b> as Project Trainee         <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ Embedded Linux (Yocto)
+<span style="color:#000080;">║</span> where I worked on Embedded Linux, OpenBMC, uBoot and     <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ OpenBMC / Sensors / D-Bus
+<span style="color:#000080;">║</span> NFS / SMB, Tiger Lake, Slim Boot, Yocto.                 <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ U-Boot / Slim Bootloader
+<span style="color:#000080;">║</span>                                                          <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┗━━ </span>⭐ QEMU / Raspberry Pi / BBB
+<span style="color:#000080;">║</span> Key Projects:                                            <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🌐 Full-Stack Developer
+<span style="color:#000080;">║</span> <a href="https://dailydiary.up.railway.app/">• Real-time Collaborative E-commerce Platform</a>            <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ React.js / Tailwind
+<span style="color:#000080;">║</span>   (Django, Redis, WebSockets, Docker)                    <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ PostgreSQL / MongoDB
+<span style="color:#000080;">║</span> • Deepfake Detection using Meta-Learning                 <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┗━━ </span>⭐ Payments & CI/CD
+<span style="color:#000080;">║</span>   (MetaOptNet + ResNet18, 89% accuracy)                  <span style="color:#000080;">║ </span>
+<span style="color:#000080;">║</span> <a href="https://tangent-ai.netlify.app/">• System-wide AI Text Transformation App </a>                <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🧠 Problem Solver
+<span style="color:#000080;">║</span>   (Gemini API, Tkinter, PyInstaller)                     <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ 400+ DSA Problems
+<span style="color:#000080;">║</span> found responsible vulnerability disclosures,             <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ CodeChef Rating: 1539
+<span style="color:#000080;">║</span> in Salesforce, MyDukan and  PNIMedia.                    <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┗━━ </span>⭐ Security Research
+<span style="color:#000080;">║</span>                                                          <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>📜 Certifications
+<span style="color:#000080;">║</span> Tech Stack: Python, C/C++, JS, Django, React,            <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span>EC-Council / IBM / Meta
+<span style="color:#000080;">║</span> PyTorch, Docker, Linux, Yocto, OpenBMC.                  <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span>Oracle OCI AI Foundations
+<span style="color:#000080;">║</span>                                                          <span style="color:#000080;">║ </span>
+<span style="color:#000080;">║</span> GitHub       → <a href="https://github.com/jnvw">github.com/jnvw</a>                           <span style="color:#000080;">║</span>
+<span style="color:#000080;">║</span> LinkedIn     → <a href="https://linkedin.com/in/sumedhbhagat">linkedin.com/in/sumedhbhagat</a>              <span style="color:#000080;">║</span>
+<span style="color:#000080;">║</span> Email        → <a href="mailto:sumedhbhagat05@gmail.com">sumedhbhagat05@gmail.com</a>                  <span style="color:#000080;">║</span>
+<span style="color:#000080;">║</span> Daily-Diary  → <a href="https://dailydiary.up.railway.app/">dailydiary.up.railway.app</a>                 <span style="color:#000080;">║</span>
+<span style="color:#000080;">║</span> Collab-shop  → <a href="https://shopcircle.up.railway.app/">shopcircle.up.railway.app</a>                 <span style="color:#000080;">║</span>
+<span style="color:#000080;">╚══════════════════════════════════════════════════════════╝</span>
 
-<br>
+</pre>
 
-## :point_right: About me
-<strong> I'm Sumedh Bhagat, IT undergrad, developer from India </strong>
 
 ## :hammer_and_wrench: Skills
 
