@@ -1,6 +1,5 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
-
-<span style="color:#000080;">╔════════════════════════ </span><span style="color:#000080;font-weight:bold;">Hi there</span><span style="color:#000080;"> ════════════════════════╗</span> 🤓 <a href="https://github.com/jnvw">Sumedh Bhagat</a>
+<span style="color:#000080;">╔═════════════════════ </span><span style="color:#000080;font-weight:bold;"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />Hi There<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /></span><span style="color:#000080;">════════════════════╗ </span> 🤓 <a href="https://github.com/jnvw">Sumedh Bhagat</a>
 <span style="color:#000080;">║</span> I'm a Software Engineer from India.                      <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🐍 Python Developer
 <span style="color:#000080;">║</span> Passionate about building real-world systems across      <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ Django / DRF
 <span style="color:#000080;">║</span> full-stack, embedded Linux, and AI/ML.                   <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ PyTorch / Meta-Learning
@@ -30,99 +29,103 @@
 <span style="color:#000080;">║</span> Daily-Diary  → <a href="https://dailydiary.up.railway.app/">dailydiary.up.railway.app</a>                 <span style="color:#000080;">║</span>
 <span style="color:#000080;">║</span> Collab-shop  → <a href="https://shopcircle.up.railway.app/">shopcircle.up.railway.app</a>                 <span style="color:#000080;">║</span>
 <span style="color:#000080;">╚══════════════════════════════════════════════════════════╝</span>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </pre>
-
 
 ## :hammer_and_wrench: Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
- <h3 align="center"> Programming </h3>
-      
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/></a>
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a>
-   <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
-   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/></a>
 
-     
-<h3 align="center"> Web Development </h3>
-     
- <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a>
- <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/undefined/django.png"/></a>
- <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/></a>
- <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/undefined/react-native.png"/></a>
- <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
- <br />
- <a href="https://flask.palletsprojects.com/en/2.3.x/"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask" /></a>
- <a href="https://fastapi.tiangolo.com/lo/"><img width="45" height="45" src="https://github.com/PritamSarbajna/PritamSarbajna/assets/90236635/1bdf48d6-08c3-411e-af8c-80310596f131" /></a>
-  <a href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+  <h3 align="center">🧠 Programming Languages</h3>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/>
+    <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash"/>
+    <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript" height="45" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=latex" height="45" title="LaTeX"/>
+  </p>
 
- <h3 align="center"> Tools </h3>
-     
- <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
- <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
- <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/></a>
- <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/></a>
+  <h3 align="center">⚙️ Frameworks & Libraries</h3>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=react" height="45" title="React"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=django" height="45" title="Django"/>
+    <img src="https://skillicons.dev/icons?i=flask" height="45" title="Flask"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" height="45" title="FastAPI"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=jquery" height="45" title="jQuery"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" height="45" title="PyTorch"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn" height="45" title="Scikit-learn"/>
+    <img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV"/>
+  </p>
+
+  <h3 align="center">🧰 Tools & IDEs</h3>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" title="Visual Studio Code"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" height="45" title="PyCharm"/>
+    <img src="https://skillicons.dev/icons?i=idea" height="45" title="IntelliJ IDEA"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="45" title="Android Studio"/>
+    <img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma"/>
+    <img src="https://skillicons.dev/icons?i=notion" height="45" title="Notion"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" title="Vercel"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
+  </p>
 
 </td>
-   
-<td width="50%" valign="top"> 
 
+<td width="50%" valign="top">
 
-  
-<h3 align="center"> Database </h3>
+  <h3 align="center">💾 Databases</h3>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" height="45" title="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=redis" height="45" title="Redis"/>
+    <img src="https://skillicons.dev/icons?i=supabase" height="45" title="Supabase"/>
+  </p>
 
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/></a>     <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/></a>
- 
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
-     
-<h3 align="center"> OS </h3>
+  <h3 align="center">💻 Operating Systems</h3>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="45" title="Ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=windows" height="45" title="Windows"/>
+    <img src="https://skillicons.dev/icons?i=kali" height="45" title="Kali Linux"/>
+  </p>
+    <br>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png" width="80%">
+  </p>
 
-  <a href="https://www.microsoft.com/en-in/"><img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
- 
-![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
 </tr>
-
 </table>
 
-
-## :computer: Open Source Contributions
-
-<details>
-<summary>Click me</summary>
-
-
- 
-</details>
   
 ## :trophy: GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jnvw?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jnvw&theme=tokyonight_duo">
-## :language used
-
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jnvw&theme=tokyonight" height="200" />
 ## :man_technologist: Coding profiles
-
 <div align="center">
  <a href="https://auth.geeksforgeeks.org/user/sumedhbhagat/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
  <a href="https://leetcode.com/sumedhbhagat05/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
- <a href="https://codeforces.com/profile/pritamsarbajna10"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Website"/></a>
+ <a href="https://codeforces.com/profile/sumedhbhagat05"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Website"/></a>
  <a href="https://www.hackerrank.com/sumedhbhagat"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
- <a href="https://www.codechef.com/users/sumedh_bhagat"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
+ <a href="https://www.codechef.com/users/sumedh_08"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
 </div> 
-
-
-
-
-
-## :phone: Contact
-  <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://sumedhbhagat.live/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
-
